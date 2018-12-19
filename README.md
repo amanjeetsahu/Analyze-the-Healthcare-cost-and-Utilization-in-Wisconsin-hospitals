@@ -6,6 +6,9 @@ group 0-17 years. The agency wants to analyze the data to research on the
 healthcare costs and their utilization.
 # Here is a detailed description of the features in the dataset:
 AGE : Age of the patient discharged
+
+
+
 FEMALE : Binary variable that indicates if the patient is female
 LOS : Length of stay, in days
 RACE : Race of the patient (specified numerically)
